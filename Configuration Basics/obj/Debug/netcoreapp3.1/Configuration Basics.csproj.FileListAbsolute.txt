@@ -1,0 +1,20 @@
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\staticwebassets\Configuration Basics.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\staticwebassets\Configuration Basics.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\Configuration Basics.exe
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\Configuration Basics.deps.json
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\Configuration Basics.runtimeconfig.json
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\Configuration Basics.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\Configuration Basics.dll
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\bin\Debug\netcoreapp3.1\Configuration Basics.pdb
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.dll
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.pdb
+C:\Users\ivano\source\repos\Configuration Basics\Configuration Basics\obj\Debug\netcoreapp3.1\Configuration Basics.genruntimeconfig.cache
